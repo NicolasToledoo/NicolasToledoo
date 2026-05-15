@@ -70,20 +70,25 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="30" alt="Arch Linux"/> **OS: Arch Linux**
 
-<p align="center">
+<div align="center">
+
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  
   <br><br>
+  
   <b>"I use Arch"</b> 
   <br>
   <sub>O melhor sistema operacional, minimalista, produtivo, perfeito para criação de softwares.</sub>
+  
   <br><br>
-  <img src="https://img.shields.io/badge/fastfetch-FF6B6B?style=for-the-badge&logo=terminal&logoColor=white" alt="fastfetch"/>
-</p>
-
-  <br>
-
+  
+  <code>fastfetch</code>
+  
+  <br><br>
+  
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="600"/>
-</p>
+
+</div>
 
 <br>
 
