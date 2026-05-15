@@ -13,7 +13,7 @@
 > *Novo: Terry A. Davis*
 
 - **Autodidata**: Aprendi programação sozinho, começando com HTML em 2018.
-- **Maestira em IA**: Uso de IA para acelerar resultados
+- **Maestria em IA**: Uso de IA para acelerar resultados
 - **Hiperfoco**: Em conhecimento
 - **Curioso**: Sou extremamente curioso, quero saber como tudo funciona. Graças a essa curiosidade, aprendi sobre programação, IA, música e mente humana.
 
@@ -52,6 +52,10 @@
 - **Databases**:
 
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </p>
