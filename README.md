@@ -133,11 +133,11 @@
 
 ### 🪔 Princípios Estoicos que vivo
 ```
-✓ Dichotomia do Controle: Foco apenas no que eu tenho controle
-✓ Amor Fati: Aceito o meu destino, aceito que não posso mudar ele.
-✓ Memento Mori: A morte e o fator de eu valorizar o agora.
-✓ Virtude como Bem Supremo: Sabedoria, justiça, coragem e temperança.
-✓ Presente Eterno: O passado foi, o futuro é incerto, viva o agora.
+✓ Dichotomia do Controle: foco apenas no que eu tenho controle.
+✓ Amor Fati: aceito o meu destino, aceito que não posso mudá-lo.
+✓ Memento Mori: a morte é o fator que me faz valorizar o agora.
+✓ Virtude como Bem Supremo: sabedoria, justiça, coragem e temperança.
+✓ Presente Eterno: o passado já foi, o futuro é incerto; viva o agora.
 ```
 
 <br>
