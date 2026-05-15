@@ -105,47 +105,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <img src="https://media1.tenor.com/m/xUI1olDZNSkAAAAd/marcus-aurelius-marcus.gif" width="30"> **Minha Filosofia: Estoica**
-
-
-<div align="center">
-
-### Marco Aurélio 
-• "Você tem poder sobre sua mente, não sobre eventos externos. Perceba isso e você encontrará forças."  
-• "A felicidade da sua vida depende da qualidade dos seus pensamentos."  
-• "Não perca mais tempo discutindo sobre o que deveria ser um bom homem. Seja um."  
-• "A melhor vingança é ser diferente da pessoa que causou o ferimento."  
-• "Se não estiver certo, não faça; se não for verdade, não conte."
-
-### Sêneca 
-• "Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que são difíceis."  
-• "Enquanto adiamos a vida, ela passa."  
-• "A sorte favorece a mente preparada."  
-• "Comece a viver imediatamente e considere cada dia como uma vida completa."  
-• "O homem que teme sofrer, já sofre do que teme."
-
-### Epicteto 
-• "Não são as coisas que nos perturbam, mas a opinião que temos sobre elas."  
-• "Primeiro diga a si mesmo o que você quer ser; depois faça o que precisa ser feito."  
-• "Liberdade é o único objetivo válido na vida."  
-• "Quem não é senhor de si, não pode ser livre."  
-• "Duas coisas devem ser arrancadas do homem: o medo e o desejo."
-
-### 🪔 Princípios Estoicos que vivo
-```
-✓ Dichotomia do Controle: Foque no que depende de você.
-✓ Amor Fati: Ame o seu destino, aceite o que não pode mudar.
-✓ Memento Mori: Lembre-se da morte para valorizar o agora.
-✓ Virtude como Bem Supremo: Sabedoria, justiça, coragem e temperança.
-✓ Presente Eterno: O passado foi, o futuro é incerto — viva o agora.
-```
-
 <br>
-
+  <b>A alma se tinge da cor dos seus pensamentos.</b>
 </div>
-
-<br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-```
