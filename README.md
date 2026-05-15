@@ -77,7 +77,7 @@
   <br>
   <sub>O melhor sistema operacional, minimalista, produtivo, perfeito para criação de softwares.</sub>
   <br><br>
-  <code style="display: inline-block; text-align: center;">fastfetch</code>
+  <img src="https://img.shields.io/badge/fastfetch-FF6B6B?style=for-the-badge&logo=terminal&logoColor=white" alt="fastfetch"/>
 </p>
 
   <br>
