@@ -66,6 +66,27 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## <img src="https://media.giphy.com/media/3o7TKF1fSIs1R19B8k/giphy.gif" width="30"> **OS: Arch Linux**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <br><br>
+  <b>"I use Arch</b> 󰣇
+  <br>
+  <sub>O melhor sistema operacional para criar softwares.</sub>
+  <br><br>
+  <code>fastfetch</code>
+
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="600"/>
+</p>
+
+<br>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
