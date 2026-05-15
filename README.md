@@ -80,8 +80,6 @@
   <br>
   <sub>O melhor sistema operacional, minimalista, produtivo, perfeito para criação de softwares.</sub>
   
-  <br><br>
-  
   <code>fastfetch</code>
   
   <br><br>
