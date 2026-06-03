@@ -1,16 +1,101 @@
-## Hi there 👋
+<h1 align="center"><b>🫪YKS</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**NicolasToledoo/NicolasToledoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=a22ff5&size=28&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Developer;hyperfocus+on+knowledge+%E2%9D%A4%EF%B8%8F;AI+Master;Self-taught+Programmer" alt="Typing SVG">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U3Y3piYTB3NGpxMmJmYXRkMGY2ZHdlcW1jMTV1YjhjeHlvMXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gl7mfimOjkkGl5mMDS/giphy.gif" width="40"></picture> **About me**
+
+> *Novo: Terry A. Davis*
+
+- **Autodidata**: Aprendizado contínuo e independente em diversas áreas.
+- **Maestria em IA**: Uso de IA para acelerar resultados
+- **Hiperfoco**: Em conhecimento
+- **Curioso**: Sou extremamente curioso, quero saber como tudo funciona. Graças a essa curiosidade, aprendi sobre programação, IA, música e mente humana.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Skills**
+
+<p align="center">
+
+- **Core & Backend**:
+    
+    ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+
+<br>
+
+- **Front-End**:
+
+    ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+- **Tools & DevOps**:
+
+    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
+
+- **Databases**:
+
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/ź73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="30" alt="Arch Linux"/> **OS: Arch Linux**
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  
+  <br><br>
+  
+  <b>"I use Arch"</b> 
+  <br>
+  <sub>O melhor sistema operacional, minimalista, produtivo, perfeito para criação de softwares.</sub>
+  
+  <code>fastfetch</code>
+  
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="600"/>
+
+</div>
+
+<br>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<br>
+  <b>A alma se tinge da cor dos seus pensamentos.</b>
+</div>
