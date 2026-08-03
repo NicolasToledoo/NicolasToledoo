@@ -10,18 +10,23 @@
 
 ## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U3Y3piYTB3NGpxMmJmYXRkMGY2ZHdlcW1jMTV1YjhjeHlvMXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gl7mfimOjkkGl5mMDS/giphy.gif" width="40"></picture> **About me**
 
+> *"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."* — Albert Einstein
+
 > *Novo: Terry A. Davis*
 
-- **Autodidata**: Aprendizado contínuo e independente em diversas áreas.
-- **Maestria em IA**: Uso de IA para acelerar resultados
-- **Hiperfoco**: Em conhecimento
-- **Curioso**: Sou extremamente curioso, quero saber como tudo funciona. Graças a essa curiosidade, aprendi sobre programação, IA, música e mente humana.
+Olá! Sou YKS, um desenvolvedor full-stack e entusiasta de IA. Minha jornada é guiada pelo aprendizado autodidata desde linguagens de programação até filosofia, mente humana, vendas, musica, treino.
+
+- Autodidata: Aprendo continuamente, sem amarras, explorando por conta própria.
+- Maestria em IA: Uso inteligência artificial para acelerar resultados e criar soluções inovadoras.
+- Hiperfoco: Mergulho fundo em cada tópico até dominá-lo.
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Skills**
+
+> *"A excelência não é um ato, mas um hábito."* — Aristóteles
 
 <p align="center">
 
@@ -97,5 +102,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <br>
-  <b>A alma se tinge da cor dos seus pensamentos.</b>
+  <b>"A alma se tinge da cor dos seus pensamentos."</b> — Marco Aurélio
 </div>
