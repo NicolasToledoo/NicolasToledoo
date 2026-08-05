@@ -12,13 +12,7 @@
 
 > *"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."* — Albert Einstein
 
-> *Novo: Terry A. Davis*
-
-Olá! Sou YKS, um desenvolvedor full-stack e entusiasta de IA. Minha jornada é guiada pelo aprendizado autodidata desde linguagens de programação até filosofia, mente humana, vendas, musica, treino.
-
-- Autodidata: Aprendo continuamente, sem amarras, explorando por conta própria.
-- Maestria em IA: Uso inteligência artificial para acelerar resultados e criar soluções inovadoras.
-- Hiperfoco: Mergulho fundo em cada tópico até dominá-lo.
+Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker Studio. Sou autodidata e graças a isso, aprendi programação, filosofia, psicologia, vendas e neurovendas.
 
 <br>
 
