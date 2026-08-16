@@ -8,7 +8,7 @@
 
 ## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U3Y3piYTB3NGpxMmJmYXRkMGY2ZHdlcW1jMTV1YjhjeHlvMXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gl7mfimOjkkGl5mMDS/giphy.gif" width="40"></picture> **About me**
 
-> *"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."* — Albert Einstein
+> *"Os homens devem moldar seu caminho. A partir do momento em que você vir o caminho em tudo o que fizer, você se tornará o caminho."* — Miyamoto Mushasi
 
 Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker Studio. Sou autodidata e graças a isso, aprendi programação, filosofia, psicologia, vendas e neurovendas.
 
@@ -18,7 +18,6 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Skills**
 
-> *"A excelência não é um ato, mas um hábito."* — Aristóteles
 
 <p align="center">
 
@@ -77,11 +76,10 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
   <br>
   <sub>O melhor sistema operacional, minimalista, nada produtivo, perfeito para passar raiva e criação de softwares.</sub>
   
-  <code>fastfetch</code>
   
   <br><br>
   
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="600"/>
+  <img src="https://i.kym-cdn.com/entries/icons/original/000/038/795/tco_-_2021-11-09T131430.682.jpg" width="600"/>
 
 </div>
 
@@ -92,5 +90,5 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
 ---
 
 <br>
-  <b>"A alma se tinge da cor dos seus pensamentos."</b> — Marco Aurélio
+<b>"Se você quiser descobrir os segredos do Universo, pense em termos de energia, frequência e vibração."</b> — Nikola Tesla
 </div>
