@@ -75,7 +75,7 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
   
   <b>"I use Arch"</b> 
   <br>
-  <sub>O melhor sistema operacional, minimalista, nada produtivo, perfeito para criação de softwares.</sub>
+  <sub>O melhor sistema operacional, minimalista, nada produtivo, perfeito para passar raiva e criação de softwares.</sub>
   
   <code>fastfetch</code>
   
