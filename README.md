@@ -14,7 +14,7 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Skills**
 
@@ -61,11 +61,9 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/ź73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+---
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="30" alt="Arch Linux"/> **OS: Arch Linux**
 
@@ -77,7 +75,7 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
   
   <b>"I use Arch"</b> 
   <br>
-  <sub>O melhor sistema operacional, minimalista, produtivo, perfeito para criação de softwares.</sub>
+  <sub>O melhor sistema operacional, minimalista, nada produtivo, perfeito para criação de softwares.</sub>
   
   <code>fastfetch</code>
   
@@ -91,7 +89,7 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+---
 
 <br>
   <b>"A alma se tinge da cor dos seus pensamentos."</b> — Marco Aurélio
