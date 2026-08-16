@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 ## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U3Y3piYTB3NGpxMmJmYXRkMGY2ZHdlcW1jMTV1YjhjeHlvMXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gl7mfimOjkkGl5mMDS/giphy.gif" width="40"></picture> **About me**
 
 > *"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."* — Albert Einstein
